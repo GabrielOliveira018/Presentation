@@ -11,9 +11,6 @@ HTML e Python
 
 [FlowSound ](link) - Breve descrição do que foi feito e tecnologias usadas.
 
-[Nome do Projeto 2](link) - Breve descrição do que foi feito e tecnologias usadas.
-
-
 
 📫 Como me encontrar
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com) oliveiragabriel07018@gmail.com
