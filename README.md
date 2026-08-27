@@ -9,7 +9,7 @@ HTML e Python
 
 🚀 Projetos em Destaque
 
-[FlowSound ](https://www.figma.com/design/QXc7HzTe4fL78acpv3SM1j/FlowSound?node-id=0-1&t=SmjamvCstcvlOTIP-1) - Breve descrição do que foi feito e tecnologias usadas.
+[FlowSound ](https://www.figma.com/design/QXc7HzTe4fL78acpv3SM1j/FlowSound?node-id=0-1&t=SmjamvCstcvlOTIP-1) - um projeto de aplicativo de musica.
 
 
 📫 Como me encontrar
